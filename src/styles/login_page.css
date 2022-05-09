@@ -1,0 +1,21 @@
+.form_container {
+    height: 90vh; 
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 10%;
+}
+
+.form_container-button {
+    color: #fff;
+    border-color: #1890ff;
+    background: #1890ff;
+    text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+    box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+    cursor: pointer;
+}
+
+.text-error {
+    color: #ff0000;
+}
